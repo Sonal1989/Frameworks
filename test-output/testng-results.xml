@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78053" started-at="2019-11-20T06:59:24Z" finished-at="2019-11-20T07:00:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78053" started-at="2019-11-20T06:59:24Z" finished-at="2019-11-20T07:00:42Z">
+      <class name="com.datadriven.test.DataProviderTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="setUp" is-config="true" duration-ms="17452" started-at="2019-11-20T12:29:25Z" finished-at="2019-11-20T12:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="excelData(java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="excelData" duration-ms="6809" started-at="2019-11-20T12:29:43Z" data-provider="getTestData" finished-at="2019-11-20T12:29:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[superChitra]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Testing.vf20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="tearDown" is-config="true" duration-ms="972" started-at="2019-11-20T12:29:50Z" finished-at="2019-11-20T12:29:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="setUp" is-config="true" duration-ms="8436" started-at="2019-11-20T12:29:51Z" finished-at="2019-11-20T12:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="excelData(java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="excelData" duration-ms="11340" started-at="2019-11-20T12:29:59Z" data-provider="getTestData" finished-at="2019-11-20T12:30:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Testing.vf20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="tearDown" is-config="true" duration-ms="921" started-at="2019-11-20T12:30:11Z" finished-at="2019-11-20T12:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="setUp" is-config="true" duration-ms="8447" started-at="2019-11-20T12:30:11Z" finished-at="2019-11-20T12:30:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="excelData(java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="excelData" duration-ms="6374" started-at="2019-11-20T12:30:20Z" data-provider="getTestData" finished-at="2019-11-20T12:30:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Testing.vf20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="tearDown" is-config="true" duration-ms="991" started-at="2019-11-20T12:30:26Z" finished-at="2019-11-20T12:30:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="setUp" is-config="true" duration-ms="7672" started-at="2019-11-20T12:30:27Z" finished-at="2019-11-20T12:30:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="excelData(java.lang.String, java.lang.String)[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="excelData" duration-ms="6033" started-at="2019-11-20T12:30:35Z" data-provider="getTestData" finished-at="2019-11-20T12:30:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Testing.vf20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.datadriven.test.DataProviderTest@174d20a]" name="tearDown" is-config="true" duration-ms="964" started-at="2019-11-20T12:30:41Z" finished-at="2019-11-20T12:30:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.datadriven.test.DataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
